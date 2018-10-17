@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_起租日相同</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1173.17578,225.5 L1183.17578,225.5 C1185.9372,225.5 1188.17578,227.738576 1188.17578,230.5 L1188.17578,235.5 C1188.17578,238.261424 1185.9372,240.5 1183.17578,240.5 L1173.17578,240.5 C1170.41436,240.5 1168.17578,238.261424 1168.17578,235.5 L1168.17578,230.5 C1168.17578,227.738576 1170.41436,225.5 1173.17578,225.5 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="15" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="正式" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="2,1">
+        <g id="08，库存平面图-四期" transform="translate(-1168.000000, -225.000000)" fill="#FFFFFF" stroke="#FF6868" stroke-width="2">
+            <use id="icon_起租日相同" mask="url(#mask-2)" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

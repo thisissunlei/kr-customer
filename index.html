@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>项目管理</title>
+    <link rel="icon" href="<%=htmlWebpackPlugin.options.files.favicon %>" type="image/x-icon" />
+    <!-- favicon -->
+    <!-- <link rel="stylesheet" href="./static/nav/nav.css"> -->
+    <!-- <link rel="stylesheet" href="./static/iview/iview.css"> -->
+    <!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
+    <% for (var chunk in htmlWebpackPlugin.options.files.css) { %>
+      <link rel="stylesheet" href="<%=htmlWebpackPlugin.options.files.css[chunk] %>">
+    <% } %>
+    <% for (var chunk in htmlWebpackPlugin.options.files.js) { %>
+      <script type="text/javascript" src="<%=htmlWebpackPlugin.options.files.js[chunk] %>"></script>
+    <% } %>
+    <link rel="stylesheet" href="./static/icomoon/style.css">
+    <!-- <link rel="stylesheet" href="./static/css/main.css"> -->
+
+    <!-- <script type="text/javascript" src="./static/umeditor/1.0.0/ueditor.config.js"></script> -->
+    <!-- <script type="text/javascript" src="./static/umeditor/1.0.0/ueditor.all.min.js"></script> -->
+    <!-- <script type="text/javascript" src="./static/umeditor/1.0.0/ueditor.all.js"></script> -->
+    <!-- <script type="text/javascript" src="./static/umeditor/1.0.0/lang/zh-cn/zh-cn.js"></script> -->
+
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

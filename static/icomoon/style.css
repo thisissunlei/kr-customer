@@ -1,0 +1,300 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?gfs3db');
+  src:  url('fonts/icomoon.eot?gfs3db#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?gfs3db') format('truetype'),
+    url('fonts/icomoon.woff?gfs3db') format('woff'),
+    url('fonts/icomoon.svg?gfs3db#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-op-contract:before {
+  content: "\e902";
+  color: #79859a;
+}
+.icon-placket-manage:before {
+  content: "\e901";
+  color: #798599;
+}
+.icon-product-goods:before {
+  content: "\e938";
+  color: #79859a;
+}
+.icon-card:before {
+  content: "\e939";
+  color: #798599;
+}
+.icon-orders:before {
+  content: "\e93a";
+  color: #79859a;
+}
+.icon-website:before {
+  content: "\e93b";
+  color: #798599;
+}
+.icon-contracts:before {
+  content: "\e93c";
+  color: #79859a;
+}
+.icon-members:before {
+  content: "\e93d";
+  color: #79859a;
+}
+.icon-customers:before {
+  content: "\e93e";
+  color: #79859a;
+}
+.icon-space-manage:before {
+  content: "\e93f";
+  color: #79859a;
+}
+.icon-equipment-manage:before {
+  content: "\e940";
+  color: #798599;
+  font-size:14px;
+}
+.icon-wendang:before {
+  content: "\e941";
+  color: #79859a;
+}
+.icon-money:before {
+  content: "\e942";
+  color: #79859a;
+}
+.icon-central-control:before {
+  content: "\e943";
+  color: #798599;
+}
+.icon-op-permission:before {
+  content: "\e948";
+  color: #798599;
+}
+.icon-theLog:before {
+  content: "\e949";
+  color: #798599;
+}
+.icon-op-set:before {
+  content: "\e94a";
+  color: #798599;
+}
+.icon-add:before {
+  content: "\e934";
+  color: #499df1;
+}
+.icon-newthing:before {
+  content: "\e932";
+  color: #798599;
+}
+.icon-donething:before {
+  content: "\e933";
+  color: #798599;
+}
+.icon-delete:before {
+  content: "\e90b";
+  color: #ff6868;
+}
+.icon-searching:before {
+  content: "\e916";
+}
+.icon-info:before {
+  content: "\e91a";
+}
+.icon-vip:before {
+  content: "\e903";
+  color: #79859a;
+}
+.icon-activity:before {
+  content: "\e904";
+  color: #697b91;
+}
+.icon-user:before {
+  content: "\e907";
+  color: #79859a;
+}
+.icon-process:before {
+  content: "\e90d";
+  color: #798599;
+}
+.icon-permissions:before {
+  content: "\e912";
+  color: #798599;
+}
+.icon-personnel-information:before {
+  content: "\e91b";
+  color: #79859a;
+}
+.icon-administrator:before {
+  content: "\e91c";
+  color: #79859a;
+}
+.icon-basis:before {
+  content: "\e926";
+  color: #798599;
+}
+.icon-community:before {
+  content: "\e927";
+  color: #79859a;
+}
+.icon-com:before {
+  content: "\e928";
+  color: #79859a;
+}
+.icon-home-setting:before {
+  content: "\e929";
+  color: #798599;
+}
+.icon-statistics:before {
+  content: "\e92a";
+  color: #79859a;
+}
+.icon-systems:before {
+  content: "\e92c";
+  color: #798599;
+}
+.icon-hardware:before {
+  content: "\e92d";
+  color: #798599;
+}
+.icon-operation-home:before {
+  content: "\e92e";
+  color: #798599;
+}
+.icon-accountAdmin:before {
+  content: "\e92f";
+  color: #79859a;
+}
+.icon-knowledge:before {
+  content: "\e930";
+  color: #798599;
+}
+.icon-app:before {
+  content: "\e931";
+  color: #79859a;
+}
+.icon-day .path1:before {
+  content: "\e91d";
+  color: rgb(153, 153, 153);
+}
+.icon-day .path2:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-day .path3:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-day .path4:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(73, 157, 241);
+}
+.icon-month .path1:before {
+  content: "\e921";
+  color: rgb(153, 153, 153);
+}
+.icon-month .path2:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-month .path3:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-month .path4:before {
+  content: "\e924";
+  margin-left: -1em;
+  color: rgb(73, 157, 241);
+}
+.icon-close:before {
+  content: "\e919";
+}
+.icon-infos:before {
+  content: "\e918";
+}
+.icon-more:before {
+  content: "\e917";
+  color: #499df1;
+}
+.icon-excel:before {
+  content: "\e900";
+  color: #7ab55c;
+}
+.icon-template:before {
+  content: "\e915";
+  color: #666;
+}
+.icon-dandian_nor:before {
+  content: "\e905";
+  color: #798599;
+}
+.icon-orderForm:before {
+  content: "\e906";
+  color: #798599;
+}
+.icon-schema:before {
+  content: "\e908";
+  color: #798599;
+}
+.icon-control:before {
+  content: "\e909";
+  color: #798599;
+}
+.icon-look:before {
+  content: "\e90c";
+  color: #798599;
+}
+.icon-return:before {
+  content: "\e90e";
+  color: #fff;
+}
+.icon-commodityManage:before {
+  content: "\e90f";
+  color: #798599;
+}
+.icon-file:before {
+  content: "\e911";
+  color: #798599;
+}
+.icon-system:before {
+  content: "\e913";
+  color: #798599;
+}
+.icon-account:before {
+  content: "\e914";
+  color: #798599;
+}
+.icon-return1:before {
+  content: "\e90a";
+}
+.icon-error:before {
+  content: "\e935";
+  color: #999;
+}
+.icon-right:before {
+  content: "\e936";
+  color: #ff6868;
+}
+.icon-edit:before {
+  content: "\e937";
+  color: #979797;
+}

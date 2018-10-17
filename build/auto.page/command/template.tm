@@ -1,0 +1,9 @@
+{
+        path:'${path}',
+        name:'${name}',
+        head:'${head}',
+        ajaxUrl:'${ajaxUrl}',
+        bigTitle:'${bigTitle}',
+        params:'${params}', 
+        group:'${group}'
+}
