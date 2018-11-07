@@ -1,4 +1,4 @@
-# kr-project
+# kr-admin-app
 
 > A Vue.js project
 
