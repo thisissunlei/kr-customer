@@ -29,7 +29,7 @@ npm test
 
 # 目录介绍
 ```
-kr-project
+kr-admin-app
 |
 │   README.md //项目说明文件
 │  
