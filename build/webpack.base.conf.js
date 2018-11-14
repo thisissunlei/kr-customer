@@ -46,7 +46,7 @@ module.exports = {
     }
   },
   plugins: [
-    new AutoDynamicPlugin({filterSuffix:'index.vue'})
+    new AutoDynamicPlugin()
   ],
   module: {
     rules: [
