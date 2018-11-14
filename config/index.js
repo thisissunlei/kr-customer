@@ -10,7 +10,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/finance/',
+    assetsPublicPath: '/admin-finance/',
     proxyTable: proxy,
     
     // Various Dev Server settings
@@ -51,7 +51,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),//构建输出目录
     assetsSubDirectory: 'static',//资源子目录
-    assetsPublicPath: '/finance/',//项目目录 
+    assetsPublicPath: '/admin-finance/',//项目目录 
 
     /**
      * Source Maps
